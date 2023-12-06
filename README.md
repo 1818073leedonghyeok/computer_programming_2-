@@ -1,2 +1,2 @@
-# computer_programming_2-
+# computer_programming_homework
 2차 과제
